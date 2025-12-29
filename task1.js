@@ -27,5 +27,5 @@ let average = 0
 for(i = 0; i < gabunganHasilUjian.length; i++){
     average = average + gabunganHasilUjian[i]
 }
-console.log(average/gabunganHasilUjian.length)
+console.log("Nilai rata-rata dari gabungan hasil ujian adalah" + average/gabunganHasilUjian.length)
 
