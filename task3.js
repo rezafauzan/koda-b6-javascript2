@@ -11,7 +11,7 @@ const temperature = {
     }
 }
 
-temperature.base = 40
+temperature.base = 10
 console.log(temperature.toFahrenheit())
 console.log(temperature.toKelvin())
 console.log(temperature.toReamur())
