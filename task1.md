@@ -28,7 +28,7 @@ outputMaximum@{"shape": lean-l, "label": "Output:  #quot;Nilai Maximum pada arra
 averageEqZero@{"shape": rectangle, "label": "average = 0"}
 kEqZero@{"shape": rectangle, "label": k = 0}
 iskltgabunganLength@{"shape": diamond, "label": "k < gabunganHasilUjian.length"}
-iskltgabunganLengthTrue@{"shape": diamond, "label": "average = average + gabunganHasilUjian[k]"}
+iskltgabunganLengthTrue@{"shape": rectangle, "label": "average = average + gabunganHasilUjian[k]"}
 kpp@{"shape": rectangle, "label": "k++"}
 outputAverage@{"shape": lean-l, "label": "Output:  #quot;Nilai rata-rata dari gabungan hasil ujian adalah :#quot; + average/gabunganHasilUjian.length"}
 
